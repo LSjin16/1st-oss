@@ -5,3 +5,6 @@ my oss class github practice
 lms 수업 출석 완료
 
 'goole colab Markdown 사본저장' 3/14
+
+https://app.netlify.com/teams/lsjin16/billing/general 
+
