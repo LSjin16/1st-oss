@@ -8,3 +8,4 @@ lms 수업 출석 완료
 
 https://app.netlify.com/teams/lsjin16/billing/general 
 
+화 목 github 출석
